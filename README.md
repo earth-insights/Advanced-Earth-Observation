@@ -3,7 +3,7 @@
 ### LLM for Change Detection
 
 
-### Generate more Data
+### Generate Change Data
 
 - Scalable multi-temporal remote sensing change data generation via simulating stochastic change process. ICCV'2023.
 - Changen2: Multi-temporal remote sensing generative change foundation model. TPAMI'2024.
