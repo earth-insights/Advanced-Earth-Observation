@@ -2,6 +2,7 @@
 
 ### LLM for Change Detection
 
+- TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data. ICLR'2025.
 
 ### Generate Change Data
 
