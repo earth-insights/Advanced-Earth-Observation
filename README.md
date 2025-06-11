@@ -6,7 +6,7 @@
 - Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. 
 - CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models. arXiv'2025.
 
-### Generate Change Data
+### Generate Change Detection Data
 
 - Scalable multi-temporal remote sensing change data generation via simulating stochastic change process. ICCV'2023.
 - Changen2: Multi-temporal remote sensing generative change foundation model. TPAMI'2024.
