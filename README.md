@@ -2,6 +2,7 @@
 
 ### LLM for Change Detection
 
+- UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models. arXiv'2024.
 - TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data. ICLR'2025.
 - Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. 
 - CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models. arXiv'2025.
