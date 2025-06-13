@@ -1,1 +1,3 @@
-# Advanced Earth Observation
+# Earth Observation in the Foundation Model Era
+
+
