@@ -1,4 +1,4 @@
-# Advanced-Change-Detection
+# Advanced Change Detection
 
 ### LLM for Change Detection
 
