@@ -1,2 +1,4 @@
-# Open-Vocabulary
+# Advanced Image Segmentation
+
+## Open-Vocabulary
 
