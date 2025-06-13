@@ -6,6 +6,7 @@
 - TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data. ICLR'2025.
 - Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. 
 - CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models. arXiv'2025.
+- DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.21076)]
 
 ### Generate Change Detection Data
 
