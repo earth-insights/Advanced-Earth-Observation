@@ -6,4 +6,5 @@
 - GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots. CVPRW'2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Singh_GeoLLM-Engine_A_Realistic_Environment_for_Building_Geospatial_Copilots_CVPRW_2024_paper.html)]
 - PEACE: Empowering Geologic Map Holistic Understanding with MLLMs. arXiv'2025. [[Paper](https://arxiv.org/abs/2501.06184)]
 - Multi-Agent Geospatial Copilots for Remote Sensing Workflows. arXiv'2025. [[Paper](https://arxiv.org/abs/2501.16254)]
+- Towards LLM Agents for Earth Observation: The UnivEARTH Dataset. arXiv'2025. [[Paper](https://arxiv.org/abs/2504.12110)]
 - ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks. arXiv'2025. [[Paper](https://arxiv.org/abs//2505.23752) | [Code](https://github.com/mbzuai-oryx/ThinkGeo)]
