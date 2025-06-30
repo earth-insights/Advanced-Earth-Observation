@@ -1,4 +1,4 @@
-# Advanced Detection
+# Advanced Object Detection
 
 ## Open-Vocabulary
 
