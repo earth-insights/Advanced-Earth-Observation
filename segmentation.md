@@ -14,11 +14,11 @@
 
 ## LLM-based Referring Expression Segmentation
 
-- RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts. arXiv'2024. [[Paper](https://arxiv.org/abs/2412.05679) | [code](https://github.com/xuliu-cyber/RSUniVLM)]]
-- GeoGround: A Unified Large Vision-Language Model. for Remote Sensing Visual Grounding. arXiv'2024. [[Paper](http://arxiv.org/abs/2411.11904) | [code](https://github.com/zytx121/GeoGround)]
+- RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts. arXiv'2024. [[Paper](https://arxiv.org/abs/2412.05679) | [Code](https://github.com/xuliu-cyber/RSUniVLM)]]
+- GeoGround: A Unified Large Vision-Language Model. for Remote Sensing Visual Grounding. arXiv'2024. [[Paper](http://arxiv.org/abs/2411.11904) | [Code](https://github.com/zytx121/GeoGround)]
 - GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2501.06828)]
-- Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.11070) | [code](https://github.com/TianHuiLab/Falcon)]
-- EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.01667) | [code](https://github.com/shuyansy/EarthMind)]
+- Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.11070) | [Code](https://github.com/TianHuiLab/Falcon)]
+- EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.01667) | [Code](https://github.com/shuyansy/EarthMind)]
 
 ## Grounded Conversation Generation
 
