@@ -12,3 +12,8 @@
 - GeoGround: A Unified Large Vision-Language Model. for Remote Sensing Visual Grounding. arXiv'2024. [[Paper](http://arxiv.org/abs/2411.11904) | [Code](https://github.com/zytx121/GeoGround)]
 - Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.11070) | [Code](https://github.com/TianHuiLab/Falcon)]
 - EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.01667) | [Code](https://github.com/shuyansy/EarthMind)]
+
+
+## Reasoning Detection
+
+- Lenna: Language enhanced reasoning detection assistant. arXiv'2023. [[Paper](https://arxiv.org/abs/2312.02433) | [Code](https://github.com/Meituan-AutoML/Lenna)]
