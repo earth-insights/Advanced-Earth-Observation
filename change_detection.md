@@ -1,6 +1,6 @@
 # Advanced Change Detection
 
-### LLM for Change Detection
+## LLM-based Change Detection
 
 - UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models. arXiv'2024.
 - TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data. ICLR'2025.
@@ -8,7 +8,7 @@
 - CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models. arXiv'2025.
 - DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.21076)]
 
-### Generate Change Detection Data
+## Change Detection Data Generation
 
 - Scalable multi-temporal remote sensing change data generation via simulating stochastic change process. ICCV'2023. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zheng_Scalable_Multi-Temporal_Remote_Sensing_Change_Data_Generation_via_Simulating_Stochastic_ICCV_2023_paper.html) | [Code](https://github.com/Z-Zheng/Changen)]
 - Changen2: Multi-temporal remote sensing generative change foundation model. TPAMI'2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10713915) | [Code](https://github.com/Z-Zheng/pytorch-change-models)]
