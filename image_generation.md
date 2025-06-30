@@ -1,3 +1,5 @@
+# Advanced Image Generation
+
 ## Optical Image Generation
 
 - Diffusionsat: A generative foundation model for satellite imagery. ICLR'2024. [[Paper](https://arxiv.org/abs/2312.03606) | [Code](https://www.samarkhanna.com/DiffusionSat/)]
