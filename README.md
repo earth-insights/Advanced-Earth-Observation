@@ -12,3 +12,11 @@ If you find any errors, or you wish to add some papers, please feel free to cont
 ```markdown
 - Paper Name. Conference'Year. [[paper](link) | [code](link)]]
 ```
+
+----
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=earth-insights/Advanced-Earth-Observation&type=Date&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=earth-insights/Advanced-Earth-Observation&type=Date"/>
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=earth-insights/Advanced-Earth-Observation&type=Date"/>
+</picture>
