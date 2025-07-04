@@ -41,6 +41,13 @@
 - Bridging Remote Sensors with Multisensor Geospatial Foundation Models. CVPR'2024. [[Paper](https://arxiv.org/abs/2404.01260) | [Code](https://github.com/boranhan/Geospatial_Foundation_Models)]
 - MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning. ECCV'2024. [[Paper](https://arxiv.org/abs/2405.02771) | [Code](https://vishalned.github.io/mmearth/)]
 - Neural Plasticity-Inspired Foundation Model for Observing the {Earth} Crossing Modalities. arXiv'2024. [[Paper](https://arxiv.org/abs/2403.15356) | [Code](https://github.com/zhu-xlab/DOFA)]
+- SenPa-MAE: Sensor Parameter Aware Masked Autoencoder for Multi-Satellite Self-Supervised Pretraining. arXiv'2024. [[Paper](https://arxiv.org/abs/2408.11000) | [Code](https://github.com/JonathanPrexl/SenPa-MAE)]
+- OmniSat: Self-Supervised Modality Fusion for Earth Observation. ECCV'2024. [[Paper](https://arxiv.org/pdf/2404.08351) | [Code](https://github.com/gastruc/OmniSat)]
+- Masked Angle-Aware Autoencoder for Remote Sensing Images.  ECCV'2024. [[Paper](https://arxiv.org/abs/2408.01946) | [Code](https://github.com/benesakitam/MA3E)]
+- Predicting Gradient is Better: Exploring Self-Supervised Learning for SAR ATR with a Joint-Embedding Predictive Architecture. ISPRS JP&RS'2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0924271624003514) | [Code](https://github.com/waterdisappear/SAR-JEPA)]
+- HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model. TPAMI'2025. [[Paper](https://arxiv.org/abs/2406.11519) | [Code](https://github.com/WHU-Sigma/HyperSIGMA)]
+- Harnessing Massive Satellite Imagery with Efficient Masked Image Modeling. ICCV'2025. [[Paper](https://arxiv.org/abs/2406.11933) | [Code](https://github.com/MiliLab/SelectiveMAE)]
+
 
 ## Image-Text Contrastive Learning
 
