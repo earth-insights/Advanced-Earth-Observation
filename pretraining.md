@@ -17,9 +17,9 @@
 - Multi-Modal Multi-Objective Contrastive Learning for Sentinel-1/2 Imagery. CVPRW'2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Prexl_Multi-Modal_Multi-Objective_Contrastive_Learning_for_Sentinel-12_Imagery_CVPRW_2023_paper.html)]
 - Change-Aware Sampling and Contrastive Learning for Satellite Images. CVPR'2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Mall_Change-Aware_Sampling_and_Contrastive_Learning_for_Satellite_Images_CVPR_2023_paper.html) | [Code](https://github.com/utkarshmall13/CACo)]
 - Towards Geospatial Foundation Models via Continual Pretraining. ICCV'2023. [[Paper](https://arxiv.org/abs/2302.04476) | [Code](https://github.com/mmendiet/GFM)]
-- Extending global-local view alignment for self-supervised learning with remote sensing imagery. CVPRW'2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/WiCV/html/Wanyan_Extending_Global-local_View_Alignment_for_Self-supervised_Learning_with_Remote_Sensing_CVPRW_2024_paper.html) | [Code](https://github.com/WennyXY/DINO-MC)]
 - CROMA: Remote Sensing Representations with Contrastive Radar-Optical Masked Autoencoders. NeurIPS'23. [[Paper](https://arxiv.org/pdf/2311.00566.pdf) | [Code](https://github.com/antofuller/CROMA)]
 - Cross-Scale MAE: A Tale of Multiscale Exploitation in Remote Sensing. NeurIPS'23. [[Paper](https://openreview.net/pdf?id=5oEVdOd6TV) | [Code](https://github.com/aicip/Cross-Scale-MAE)]
+- Extending global-local view alignment for self-supervised learning with remote sensing imagery. CVPRW'2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/WiCV/html/Wanyan_Extending_Global-local_View_Alignment_for_Self-supervised_Learning_with_Remote_Sensing_CVPRW_2024_paper.html) | [Code](https://github.com/WennyXY/DINO-MC)]
 - SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery. CVPR'2024. [[Paper](https://arxiv.org/abs/2312.10115)]
 
 ## Masked Image Modeling
