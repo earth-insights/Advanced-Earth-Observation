@@ -4,6 +4,7 @@
 
 - SatlasPretrain: A Large-Scale Dataset for Remote Sensing Image Understanding. ICCV'2023. [[Paper](https://arxiv.org/abs/2211.15660) | [Code](https://github.com/allenai/satlas)]
 - MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining. JSTARS'2024. [[Paper](https://arxiv.org/abs/2403.13430) | [Code](https://github.com/ViTAE-Transformer/MTP)]
+- HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery. CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_HyperFree_A_Channel-adaptive_and_Tuning-free_Foundation_Model_for_Hyperspectral_Remote_CVPR_2025_paper.html) | [Code](https://github.com/Jingtao-Li-CVer/HyperFree)]
 
 ## Image Contrastive Learning
 
@@ -21,6 +22,7 @@
 - Cross-Scale MAE: A Tale of Multiscale Exploitation in Remote Sensing. NeurIPS'23. [[Paper](https://openreview.net/pdf?id=5oEVdOd6TV) | [Code](https://github.com/aicip/Cross-Scale-MAE)]
 - Extending global-local view alignment for self-supervised learning with remote sensing imagery. CVPRW'2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/WiCV/html/Wanyan_Extending_Global-local_View_Alignment_for_Self-supervised_Learning_with_Remote_Sensing_CVPRW_2024_paper.html) | [Code](https://github.com/WennyXY/DINO-MC)]
 - SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery. CVPR'2024. [[Paper](https://arxiv.org/abs/2312.10115)]
+- Panopticon: Advancing Any-Sensor Foundation Models for Earth Observation. arXiv'2025. [[Paper](https://www.arxiv.org/abs/2503.10845) | [Code](https://github.com/Panopticon-FM/panopticon)]
 
 ## Masked Image Modeling
 
@@ -45,11 +47,18 @@
 - OmniSat: Self-Supervised Modality Fusion for Earth Observation. ECCV'2024. [[Paper](https://arxiv.org/pdf/2404.08351) | [Code](https://github.com/gastruc/OmniSat)]
 - Masked Angle-Aware Autoencoder for Remote Sensing Images.  ECCV'2024. [[Paper](https://arxiv.org/abs/2408.01946) | [Code](https://github.com/benesakitam/MA3E)]
 - Predicting Gradient is Better: Exploring Self-Supervised Learning for SAR ATR with a Joint-Embedding Predictive Architecture. ISPRS JP&RS'2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0924271624003514) | [Code](https://github.com/waterdisappear/SAR-JEPA)]
+- OReole-FM: successes and challenges toward billion-parameter foundation models for high-resolution satellite imagery. SIGSPATIAL'2024. [[Paper](https://arxiv.org/abs/2410.19965)]
+- AnySat: An Earth Observation Model for Any Resolutions, Scales, and Modalities. arXiv'2024. [[Paper](https://arxiv.org/abs/2412.14123) | [Code](https://github.com/gastruc/AnySat)]
+- Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications. arXiv'2024. [[Paper](https://arxiv.org/abs/2412.02732) | [Code](https://github.com/NASA-IMPACT/Prithvi-EO-2.0)]
 - HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model. TPAMI'2025. [[Paper](https://arxiv.org/abs/2406.11519) | [Code](https://github.com/WHU-Sigma/HyperSIGMA)]
+- FoMo: Multi-Modal, Multi-Scale and Multi-Task Remote Sensing Foundation Models for Forest Monitoring. AAAI'2025. [[Paper](https://arxiv.org/abs/2312.10114) | [Code](https://github.com/RolnickLab/FoMo-Bench)]
 - Harnessing Massive Satellite Imagery with Efficient Masked Image Modeling. ICCV'2025. [[Paper](https://arxiv.org/abs/2406.11933) | [Code](https://github.com/MiliLab/SelectiveMAE)]
-
+- Galileo: Learning Global & Local Features of Many Remote Sensing Modalities. arXiv'2025. [[Paper](https://arxiv.org/abs/2502.09356) | [Code](https://github.com/nasaharvest/galileo)]
+- Towards a Unified Copernicus Foundation Model for Earth Vision. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.11849) | [Code](https://github.com/zhu-xlab/Copernicus-FM)]
+- RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.10392) | [Code](https://github.com/MiliLab/RoMA)]
 
 ## Image-Text Contrastive Learning
 
-- [[Paper]() | [Code]()]
-- [[Paper]() | [Code]()]
+- RemoteCLIP: A Vision Language Foundation Model for Remote Sensing. TGRS'2024. [[Paper](https://arxiv.org/abs/2306.11029) | [Code](https://github.com/ChenDelong1999/RemoteCLIP)]
+- RS5M and GeoRSCLIP: A Large Scale Vision-Language Dataset and A Vision-Language Foundation Model for Remote Sensing. TGRS'2024. [[Paper](https://arxiv.org/abs/2306.11300) | [Code](https://github.com/om-ai-lab/RS5M)]
+- SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing. AAAI'2024. [[Paper](https://arxiv.org/abs/2312.12856) | [Code](https://github.com/wangzhecheng/SkyScript)]
