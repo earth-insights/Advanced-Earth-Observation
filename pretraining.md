@@ -60,6 +60,7 @@
 - RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.10392) | [Code](https://github.com/MiliLab/RoMA)]
 - Towards Privacy-preserved Pre-training of Remote Sensing Foundation Models with Federated Mutual-guidance Learning. ICCV'2025. [[Paper](https://arxiv.org/abs/2503.11051)]
 - RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model. ICCV'2025. [[Paper](https://arxiv.org/abs/2411.17984)]
+- SMARTIES: Spectrum-Aware Multi-Sensor Auto-Encoder for Remote Sensing Images. ICCV'2025. [[Paper](https://arxiv.org/abs/2506.19585) | [Code](https://github.com/gsumbul/SMARTIES)]
 
 ## Image-Text Contrastive Learning
 
