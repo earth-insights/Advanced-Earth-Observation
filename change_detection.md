@@ -17,4 +17,11 @@
 - PRISM: Pseudo-Labeling and Region-Based Inpainting for Synthetic Change Detection Modeling. GRSL'2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/11002524)]
 - The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation. CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Benidir_The_Change_You_Want_To_Detect_Semantic_Change_Detection_In_CVPR_2025_paper.html)]
 
+## Open-Vocabulary Change Detection
 
+- Segment change model (scm) for unsupervised change detection in vhr remote sensing images: a case study of buildings. IGARSS'2024. [[Paper](https://arxiv.org/abs/2312.16410) | [Code](https://github.com/StephenApX/UCD-SCM)]
+- DynamicEarth: How Far are We from Open-Vocabulary Change Detection? arXiv'2025. [[Paper](https://arxiv.org/abs/2501.12931) | [Code](https://likyoo.github.io/DynamicEarth)]
+
+## Question Answering and Grounding
+
+- Show Me What and Where has Changed? Question Answering and Grounding for Remote Sensing Change Detection. arXiv'2024. [[Paper](https://arxiv.org/abs/2410.23828) | [Code](https://github.com/like413/VisTA)]
