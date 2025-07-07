@@ -1,6 +1,6 @@
 # Advanced Image Segmentation
 
-## Open-Vocabulary
+## Open-Vocabulary Segmentation
 
 - Segearth-OV: Towards training-free open-vocabulary segmentation for remote sensing images. CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_SegEarth-OV_Towards_Training-Free_Open-Vocabulary_Segmentation_for_Remote_Sensing_Images_CVPR_2025_paper.html) | [Code](https://github.com/likyoo/SegEarth-OV)]
 - Open-Vocabulary Remote Sensing Image Semantic Segmentation. TGRS'2025. [[Paper](https://arxiv.org/abs/2409.07683) | [Code](https://github.com/caoql98/OVRS)]
