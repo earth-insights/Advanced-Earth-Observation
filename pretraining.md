@@ -67,3 +67,4 @@
 - RemoteCLIP: A Vision Language Foundation Model for Remote Sensing. TGRS'2024. [[Paper](https://arxiv.org/abs/2306.11029) | [Code](https://github.com/ChenDelong1999/RemoteCLIP)]
 - RS5M and GeoRSCLIP: A Large Scale Vision-Language Dataset and A Vision-Language Foundation Model for Remote Sensing. TGRS'2024. [[Paper](https://arxiv.org/abs/2306.11300) | [Code](https://github.com/om-ai-lab/RS5M)]
 - SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing. AAAI'2024. [[Paper](https://arxiv.org/abs/2312.12856) | [Code](https://github.com/wangzhecheng/SkyScript)]
+- SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery. AAAI'2025. [[Paper](https://arxiv.org/abs/2311.17179) | [Code](https://github.com/microsoft/satclip)]
