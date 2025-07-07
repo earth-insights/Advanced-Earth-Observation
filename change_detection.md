@@ -7,6 +7,7 @@
 - Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. 
 - CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models. arXiv'2025.
 - DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.21076)]
+- TAMMs:Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.18862)]
 
 ## Change Detection Data Generation
 
