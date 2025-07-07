@@ -23,6 +23,7 @@
 - Extending global-local view alignment for self-supervised learning with remote sensing imagery. CVPRW'2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/WiCV/html/Wanyan_Extending_Global-local_View_Alignment_for_Self-supervised_Learning_with_Remote_Sensing_CVPRW_2024_paper.html) | [Code](https://github.com/WennyXY/DINO-MC)]
 - SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery. CVPR'2024. [[Paper](https://arxiv.org/abs/2312.10115)]
 - Panopticon: Advancing Any-Sensor Foundation Models for Earth Observation. arXiv'2025. [[Paper](https://www.arxiv.org/abs/2503.10845) | [Code](https://github.com/Panopticon-FM/panopticon)]
+- Towards Privacy-preserved Pre-training of Remote Sensing Foundation Models with Federated Mutual-guidance Learning. ICCV'2025. [[Paper](https://arxiv.org/abs/2503.11051)]
 
 ## Masked Image Modeling
 
@@ -56,6 +57,7 @@
 - Galileo: Learning Global & Local Features of Many Remote Sensing Modalities. arXiv'2025. [[Paper](https://arxiv.org/abs/2502.09356) | [Code](https://github.com/nasaharvest/galileo)]
 - Towards a Unified Copernicus Foundation Model for Earth Vision. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.11849) | [Code](https://github.com/zhu-xlab/Copernicus-FM)]
 - RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.10392) | [Code](https://github.com/MiliLab/RoMA)]
+- Towards Privacy-preserved Pre-training of Remote Sensing Foundation Models with Federated Mutual-guidance Learning. ICCV'2025. [[Paper](https://arxiv.org/abs/2503.11051)]
 
 ## Image-Text Contrastive Learning
 
