@@ -24,6 +24,7 @@
 - SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery. CVPR'2024. [[Paper](https://arxiv.org/abs/2312.10115)]
 - Panopticon: Advancing Any-Sensor Foundation Models for Earth Observation. arXiv'2025. [[Paper](https://www.arxiv.org/abs/2503.10845) | [Code](https://github.com/Panopticon-FM/panopticon)]
 - Towards Privacy-preserved Pre-training of Remote Sensing Foundation Models with Federated Mutual-guidance Learning. ICCV'2025. [[Paper](https://arxiv.org/abs/2503.11051)]
+- RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model. ICCV'2025. [[Paper](https://arxiv.org/abs/2411.17984)]
 
 ## Masked Image Modeling
 
@@ -58,6 +59,7 @@
 - Towards a Unified Copernicus Foundation Model for Earth Vision. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.11849) | [Code](https://github.com/zhu-xlab/Copernicus-FM)]
 - RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.10392) | [Code](https://github.com/MiliLab/RoMA)]
 - Towards Privacy-preserved Pre-training of Remote Sensing Foundation Models with Federated Mutual-guidance Learning. ICCV'2025. [[Paper](https://arxiv.org/abs/2503.11051)]
+- RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model. ICCV'2025. [[Paper](https://arxiv.org/abs/2411.17984)]
 
 ## Image-Text Contrastive Learning
 
