@@ -13,3 +13,7 @@
 ## Hyperspectral Image Generation
 
 - HSIGene: A Foundation Model For Hyperspectral Image Generation. arXiv'2025. [[Paper](https://arxiv.org/abs/2409.12470) | [Code](https://github.com/LiPang/HSIGene)]
+
+## 3D Generation
+
+- 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion. ICCV'2025. [[Paper](https://arxiv.org/abs/2507.04403)]
