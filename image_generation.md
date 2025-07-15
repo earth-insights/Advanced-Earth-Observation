@@ -9,6 +9,7 @@
 - Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model. GRSM'2025. [[Paper](https://arxiv.org/abs/2501.00895) | [Code](https://github.com/chen-yang-liu/Text2Earth)]
 - AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation. CVPR'2025. [[Paper](https://arxiv.org/abs/2411.15497) | [Code](https://github.com/Sonettoo/AeroGen)]
 - Leveraging BEV Paradigm for Ground-to-Aerial Image Synthesis. ICCV'2025. [[Paper](https://arxiv.org/abs/2408.01812) | [Code](https://github.com/opendatalab/skydiffusion)]
+- RESTORE-DiT: Reliable satellite image time series reconstruction by multimodal sequential diffusion transformer. RSE'2025. [[Paper](https://doi.org/10.1016/j.rse.2025.114872) | [Code](https://github.com/SQD1/RESTORE-DiT)]
 
 ## Hyperspectral Image Generation
 
