@@ -5,6 +5,7 @@
 - Locate anything on earth: Advancing open-vocabulary object detection for remote sensing community. AAAI'2025. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32672) | [Code](https://github.com/jaychempan/LAE-DINO)]
 - Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning. ECCV'2024. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73016-0_25) | [Code](https://github.com/VisionXLab/CastDet)]
 - LLaMA-Unidetector: A LLaMA-Based Universal Framework for Open-Vocabulary Object Detection in Remote Sensing Imagery. TGRS'2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10976651) | [Code](https://github.com/ChloeeGrace/LLaMA-Unidetector)]
+- InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.15818) | [Code](https://github.com/VoyagerXvoyagerx/InstructSAM)]
 
 ## LLM-based Detection / Grounding
 
