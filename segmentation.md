@@ -7,6 +7,7 @@
 - Towards open-vocabulary remote sensing image semantic segmentation. AAAI'2025. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33022) | [Code](https://github.com/yecy749/GSNet)]
 - SkySense-O: Towards Open-World Remote Sensing Interpretation with Vision-Centric Visual-Language Modeling. CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_SkySense-O_Towards_Open-World_Remote_Sensing_Interpretation_with_Vision-Centric_Visual-Language_Modeling_CVPR_2025_paper.pdf) | [Code](https://github.com/zqcrafts/SkySense-O)]
 - AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images. CVPRW'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Dutta_AerOSeg_Harnessing_SAM_for_Open-Vocabulary_Segmentation_in_Remote_Sensing_Images_CVPRW_2025_paper.html)]
+- RemoteSAM: Towards Segment Anything for Earth Observation. ACMMM'2025. [[Paper](https://arxiv.org/abs/2505.18022) | [Code](https://github.com/1e12Leon/RemoteSAM)]
 
 ## Reasoning Segmentation
 
@@ -20,6 +21,7 @@
 - GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2501.06828)]
 - Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.11070) | [Code](https://github.com/TianHuiLab/Falcon)]
 - EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.01667) | [Code](https://github.com/shuyansy/EarthMind)]
+- RemoteSAM: Towards Segment Anything for Earth Observation. ACMMM'2025. [[Paper](https://arxiv.org/abs/2505.18022) | [Code](https://github.com/1e12Leon/RemoteSAM)]
 
 ## Grounded Conversation Generation
 
