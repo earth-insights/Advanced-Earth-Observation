@@ -23,6 +23,7 @@
 - Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.11070) | [Code](https://github.com/TianHuiLab/Falcon)]
 - EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.01667) | [Code](https://github.com/shuyansy/EarthMind)]
 - RemoteSAM: Towards Segment Anything for Earth Observation. ACMMM'2025. [[Paper](https://arxiv.org/abs/2505.18022) | [Code](https://github.com/1e12Leon/RemoteSAM)]
+- GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.05887)]
 
 ## Grounded Conversation Generation
 
