@@ -9,6 +9,7 @@
 - Geochat: Grounded large vision-language model for remote sensing. CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kuckreja_GeoChat_Grounded_Large_Vision-Language_Model_for_Remote_Sensing_CVPR_2024_paper.html) | [Code](https://github.com/mbzuai-oryx/GeoChat)]
 - UrbanLLaVA: A Multi-modal Large Language Model for Urban Intelligence with Spatial Reasoning and Understanding. ICCV'2025. [[Paper](https://arxiv.org/abs/2506.23219) | [Code](https://github.com/tsinghua-fib-lab/UrbanLLaVA)]
 - When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning. ICCV'2025. [[Paper](https://arxiv.org/abs/2503.07588) | [Code](https://github.com/VisionXLab/LRS-VQA)]
+- Remote Sensing Large Vision-Language Model: Semantic-augmented Multi-level Alignment and Semantic-aware Expert Modeling. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.21863)]
 
 ## Dataset and Benchmark
 
