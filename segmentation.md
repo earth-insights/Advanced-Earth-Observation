@@ -15,7 +15,7 @@
 - SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model. arXiv'2025. [[Paper](https://arxiv.org/abs/2504.09644) | [Code](https://github.com/earth-insights/SegEarth-R1)]
 - LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.02829)] | [[Code](https://github.com/lisat-bair/LISAt_code)]]
 
-## LLM-based Referring Expression Segmentation
+## LLM/VLM-based Referring Expression Segmentation
 
 - RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts. arXiv'2024. [[Paper](https://arxiv.org/abs/2412.05679) | [Code](https://github.com/xuliu-cyber/RSUniVLM)]]
 - GeoGround: A Unified Large Vision-Language Model. for Remote Sensing Visual Grounding. arXiv'2024. [[Paper](http://arxiv.org/abs/2411.11904) | [Code](https://github.com/zytx121/GeoGround)]
@@ -24,6 +24,7 @@
 - EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.01667) | [Code](https://github.com/shuyansy/EarthMind)]
 - RemoteSAM: Towards Segment Anything for Earth Observation. ACMMM'2025. [[Paper](https://arxiv.org/abs/2505.18022) | [Code](https://github.com/1e12Leon/RemoteSAM)]
 - GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.05887)]
+- RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.06231) | [Code](https://github.com/KyanChen/RSRefSeg2)]
 
 ## Grounded Conversation Generation
 
