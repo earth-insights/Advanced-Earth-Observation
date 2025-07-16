@@ -7,7 +7,7 @@
 - Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.11070) | [Code](https://github.com/TianHuiLab/Falcon)]
 - CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2411.18145) | [Code](https://github.com/ShawnAn-WHU/CHOICE)]
 - DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.21076)]
-- TAMMs:Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.18862)]
+- TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.18862)]
 
 ## Change Detection Data Generation
 
@@ -17,6 +17,7 @@
 - Syntheworld: A large-scale synthetic dataset for land cover mapping and building change detection. WACV'2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Song_SyntheWorld_A_Large-Scale_Synthetic_Dataset_for_Land_Cover_Mapping_and_WACV_2024_paper.html) | [Code](https://github.com/JTRNEO/SyntheWorld)]
 - PRISM: Pseudo-Labeling and Region-Based Inpainting for Synthetic Change Detection Modeling. GRSL'2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/11002524)]
 - The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation. CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Benidir_The_Change_You_Want_To_Detect_Semantic_Change_Detection_In_CVPR_2025_paper.html)]
+- ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.04678)]
 
 ## Open-Vocabulary Change Detection
 
