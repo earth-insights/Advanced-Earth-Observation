@@ -39,6 +39,7 @@
 - CROMA: Remote Sensing Representations with Contrastive Radar-Optical Masked Autoencoders. NeurIPS'23. [[Paper](https://arxiv.org/pdf/2311.00566) | [Code](https://github.com/antofuller/CROMA)]
 - Cross-Scale MAE: A Tale of Multiscale Exploitation in Remote Sensing. NeurIPS'23. [[Paper](https://openreview.net/pdf?id=5oEVdOd6TV) | [Code](https://github.com/aicip/Cross-Scale-MAE)]
 - Foundation Models for Generalist Geospatial Artificial Intelligence. CVPR'2023. [[Paper](https://arxiv.org/abs/2310.18660) | [Code](https://huggingface.co/ibm-nasa-geospatial)]
+- Masked vision transformers for hyperspectral image classification. CVPRW'2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Scheibenreif_Masked_Vision_Transformers_for_Hyperspectral_Image_Classification_CVPRW_2023_paper.html) | [Code](https://github.com/HSG-AIML/MaskedSST)]
 - USat: A Unified Self-Supervised Encoder for Multi-Sensor Satellite Imagery. arXiv'2023. [[Paper](https://arxiv.org/abs/2312.02199) | [Code](https://github.com/stanfordmlgroup/USat)]
 - SpectralGPT: Spectral Remote Sensing Foundation Model. TPAMI'2024. [[Paper](https://arxiv.org/abs/2311.07113) | [Code](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)]
 - S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data. CVPR'2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_S2MAE_A_Spatial-Spectral_Pretraining_Foundation_Model_for_Spectral_Remote_Sensing_CVPR_2024_paper.pdf)]
