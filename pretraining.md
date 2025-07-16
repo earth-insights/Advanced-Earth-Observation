@@ -5,6 +5,7 @@
 - SatlasPretrain: A Large-Scale Dataset for Remote Sensing Image Understanding. ICCV'2023. [[Paper](https://arxiv.org/abs/2211.15660) | [Code](https://github.com/allenai/satlas)]
 - MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining. JSTARS'2024. [[Paper](https://arxiv.org/abs/2403.13430) | [Code](https://github.com/ViTAE-Transformer/MTP)]
 - HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery. CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_HyperFree_A_Channel-adaptive_and_Tuning-free_Foundation_Model_for_Hyperspectral_Remote_CVPR_2025_paper.html) | [Code](https://github.com/Jingtao-Li-CVer/HyperFree)]
+- MoSAiC: Multi-Modal Multi-Label Supervision-Aware Contrastive Learning for Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.08683)]
 
 ## Image Contrastive Learning
 
