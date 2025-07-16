@@ -25,6 +25,7 @@
 - RemoteSAM: Towards Segment Anything for Earth Observation. ACMMM'2025. [[Paper](https://arxiv.org/abs/2505.18022) | [Code](https://github.com/1e12Leon/RemoteSAM)]
 - GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.05887)]
 - RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.06231) | [Code](https://github.com/KyanChen/RSRefSeg2)]
+- DiffRIS: Enhancing Referring Remote Sensing Image Segmentation with Pre-trained Text-to-Image Diffusion Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.18946)]
 
 ## Grounded Conversation Generation
 
