@@ -24,3 +24,4 @@
 - Towards Efficient Benchmarking of Foundation Models in Remote Sensing: A Capabilities Encoding Approach. CVPRW'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025W/MORSE/html/Adorni_Towards_Efficient_Benchmarking_of_Foundation_Models_in_Remote_Sensing_A_CVPRW_2025_paper.html) | [Code](https://github.com/pierreadorni/capabilities-encoding)]
 - GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks. ICCV'2025. [[Paper](https://arxiv.org/abs/2411.19325) | [Code](https://github.com/The-AI-Alliance/GEO-Bench-VLM)]
 - Can Large Multimodal Models Understand Agricultural Scenes? Benchmarking with AgroMind. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.12207) | [Code](https://github.com/rssysu/AgroMind)]
+- Landsat-Bench: Datasets and Benchmarks for Landsat Foundation Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.08780) | [Code](https://github.com/isaaccorley/landsatbench)]
