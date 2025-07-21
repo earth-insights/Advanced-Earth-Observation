@@ -26,8 +26,8 @@
 - Panopticon: Advancing Any-Sensor Foundation Models for Earth Observation. arXiv'2025. [[Paper](https://www.arxiv.org/abs/2503.10845) | [Code](https://github.com/Panopticon-FM/panopticon)]
 - Towards Privacy-preserved Pre-training of Remote Sensing Foundation Models with Federated Mutual-guidance Learning. ICCV'2025. [[Paper](https://arxiv.org/abs/2503.11051)]
 - RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model. ICCV'2025. [[Paper](https://arxiv.org/abs/2411.17984)]
-- CGEarthEye: A High-Resolution Remote Sensing Vision Foundation Model Based on the Jilin-1 Satellite Constellation. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.00356)]
 - SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing. ICCV'2025. [[Paper](https://arxiv.org/abs/2507.13812)]
+- CGEarthEye: A High-Resolution Remote Sensing Vision Foundation Model Based on the Jilin-1 Satellite Constellation. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.00356)]
 
 ## Masked Image Modeling
 
