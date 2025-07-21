@@ -76,7 +76,7 @@
 - Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model. GRSM'2025. [[Paper](https://arxiv.org/abs/2501.00895) | [Code](https://github.com/Chen-Yang-Liu/Git-RSCLIP)]
 - LRSCLIP: A Vision-Language Foundation Model for Aligning Remote Sensing Image with Longer Text. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.19311)]
 
-## 
+## Generative
 
-- Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models? arXiv'2025. [Paper](https://arxiv.org/abs/2503.07890)
+- Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models? arXiv'2025. [[Paper](https://arxiv.org/abs/2503.07890)]
 
