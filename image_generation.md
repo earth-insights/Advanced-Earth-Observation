@@ -19,3 +19,4 @@
 ## 3D Generation
 
 - 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion. ICCV'2025. [[Paper](https://arxiv.org/abs/2507.04403)]
+- EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.16535) | [Code](https://whiteinblue.github.io/earthcrafter/)]
