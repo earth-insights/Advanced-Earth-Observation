@@ -11,6 +11,7 @@
 - Satellite to GroundScape - Large-scale Consistent Ground View Generation from Satellite Views. CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Satellite_to_GroundScape_-_Large-scale_Consistent_Ground_View_Generation_from_CVPR_2025_paper.html)]
 - Leveraging BEV Paradigm for Ground-to-Aerial Image Synthesis. ICCV'2025. [[Paper](https://arxiv.org/abs/2408.01812) | [Code](https://github.com/opendatalab/skydiffusion)]
 - RESTORE-DiT: Reliable satellite image time series reconstruction by multimodal sequential diffusion transformer. RSE'2025. [[Paper](https://doi.org/10.1016/j.rse.2025.114872) | [Code](https://github.com/SQD1/RESTORE-DiT)]
+- EarthMapper: Visual Autoregressive Models for Controllable Bidirectional Satellite-Map Translation. arXiv'2025. [[Paper](https://arxiv.org/abs/2504.19432) | [Code](https://github.com/HIT-SIRS/EarthMapper)]
 
 ## Hyperspectral Image Generation
 
