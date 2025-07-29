@@ -2,14 +2,18 @@
 
 ## MLLM/LLM
 
+- GeoChat: Grounded Large Vision-Language Model for Remote Sensing. CVPR'2024. [[Paper](https://arxiv.org/abs/2311.15826) | [Code](https://github.com/mbzuai-oryx/GeoChat)]
 - Earthgpt: A universal multi-modal large language model for multi-sensor image comprehension in remotesensing domain. TGRS'2024. [[Paper](https://arxiv.org/abs/2401.16822) | [Code](https://github.com/wivizhang/EarthGPT)]
 - LHRS-Bot: Empowering remote sensing with vgi-enhanced large multimodal language model. ECCV'2024. [[Paper](https://arxiv.org/abs/2402.02544) | [Code](https://github.com/NJU-LHRS/LHRS-Bot)]
 - SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding. arXiv'2025. [[Paper](https://arxiv.org/abs/2406.10100) | [Code](https://github.com/Luo-Z13/SkySenseGPT)]
 - Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.11070) | [Code](https://github.com/TianHuiLab/Falcon)]
+- TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data. ICLR'2025. [[Paper](https://arxiv.org/abs/2410.06234) | [Code](https://github.com/ermongroup/TEOChat)]
+- VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis. [[Paper](https://arxiv.org/abs/2403.20213v4) | [Code](https://github.com/opendatalab/VHM)]
 - Geochat: Grounded large vision-language model for remote sensing. CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kuckreja_GeoChat_Grounded_Large_Vision-Language_Model_for_Remote_Sensing_CVPR_2024_paper.html) | [Code](https://github.com/mbzuai-oryx/GeoChat)]
 - UrbanLLaVA: A Multi-modal Large Language Model for Urban Intelligence with Spatial Reasoning and Understanding. ICCV'2025. [[Paper](https://arxiv.org/abs/2506.23219) | [Code](https://github.com/tsinghua-fib-lab/UrbanLLaVA)]
 - When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning. ICCV'2025. [[Paper](https://arxiv.org/abs/2503.07588) | [Code](https://github.com/VisionXLab/LRS-VQA)]
 - Remote Sensing Large Vision-Language Model: Semantic-augmented Multi-level Alignment and Semantic-aware Expert Modeling. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.21863)]
+- AllSpark: A Multimodal Spatiotemporal General Intelligence Model With Ten Modalities via Language as a Reference Framework. TGRS'2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10830573/) | [Code](https://github.com/GeoX-Lab/AllSpark)]
 
 ## Dataset and Benchmark
 
