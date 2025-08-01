@@ -10,3 +10,4 @@
 - Towards LLM Agents for Earth Observation: The UnivEARTH Dataset. arXiv'2025. [[Paper](https://arxiv.org/abs/2504.12110)]
 - Geo-OLM: Enabling Sustainable Earth Observation Studies with Cost-Efficient Open Language Models & State-Driven Workflows. COMPASS'2025. [[Paper](https://arxiv.org/abs/2504.04319) | [Code](https://github.com/dstamoulis/geo-olms)]
 - ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.23752) | [Code](https://github.com/mbzuai-oryx/ThinkGeo)]
+- RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.20776)]
