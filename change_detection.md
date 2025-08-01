@@ -8,6 +8,7 @@
 - CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2411.18145) | [Code](https://github.com/ShawnAn-WHU/CHOICE)]
 - DynamicVL: Benchmarking Multimodal Large Language Models for Dynamic City Understanding. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.21076)]
 - TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.18862)]
+- DeltaVLM: Interactive Remote Sensing Image Change Analysis via Instruction-guided Difference Perception. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.22346) | [Code](https://github.com/hanlinwu/DeltaVLM)]
 
 ## Change Detection Data Generation
 
