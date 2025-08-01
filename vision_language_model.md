@@ -1,4 +1,6 @@
-# Advanced LLM
+# Advanced VLM
+
+## LLM/MLLM
 
 - GeoChat: Grounded Large Vision-Language Model for Remote Sensing. CVPR'2024. [[Paper](https://arxiv.org/abs/2311.15826) | [Code](https://github.com/mbzuai-oryx/GeoChat)]
 - Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data. CVPRW'2024. [[Paper](https://arxiv.org/abs/2401.17600) | [Code](https://vleo.danielz.ch/)]
@@ -20,4 +22,4 @@
 - Remote Sensing Large Vision-Language Model: Semantic-augmented Multi-level Alignment and Semantic-aware Expert Modeling. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.21863)]
 - Landsat-Bench: Datasets and Benchmarks for Landsat Foundation Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.08780) | [Code](https://github.com/isaaccorley/landsatbench)]
 - AllSpark: A Multimodal Spatiotemporal General Intelligence Model With Ten Modalities via Language as a Reference Framework. TGRS'2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10830573/) | [Code](https://github.com/GeoX-Lab/AllSpark)]
-
+- Few-Shot Vision-Language Reasoning for Satellite Imagery via Verifiable Rewards. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.21745)]
