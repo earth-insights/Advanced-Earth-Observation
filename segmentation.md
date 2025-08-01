@@ -31,7 +31,7 @@
 
 - GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing. ICML'2025. [[Paper](https://arxiv.org/abs/2501.13925) | [Code](https://github.com/mbzuai-oryx/GeoPixel)]
 
-## Dataset
+## Multi-sensor
 
 - UAVScenes: A Multi-Modal Dataset for UAVs. ICCV'2025. [[Paper](http://arxiv.org/abs/2507.22412) | [Code](https://github.com/sijieaaa/UAVScenes)]
 
