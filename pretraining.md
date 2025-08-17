@@ -28,6 +28,7 @@
 - RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model. ICCV'2025. [[Paper](https://arxiv.org/abs/2411.17984)]
 - SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing. ICCV'2025. [[Paper](https://arxiv.org/abs/2507.13812)]
 - CGEarthEye: A High-Resolution Remote Sensing Vision Foundation Model Based on the Jilin-1 Satellite Constellation. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.00356)]
+- DINOv3. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.10104) | [Code](https://github.com/facebookresearch/dinov3)]
 
 ## Masked Image Modeling
 
@@ -68,6 +69,7 @@
 - Terramind: Large-scale generative multimodality for earth observation. ICCV'2025. [[Paper](https://arxiv.org/abs/2504.11171) | [Code](https://github.com/IBM/terramind)]
 - MAPEX: Modality-Aware Pruning of Experts for Remote Sensing Foundation Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.07527) | [Code](https://github.com/HSG-AIML/MAPEX)]
 - CGEarthEye: A High-Resolution Remote Sensing Vision Foundation Model Based on the Jilin-1 Satellite Constellation. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.00356)]
+- DINOv3. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.10104) | [Code](https://github.com/facebookresearch/dinov3)]
 
 ## Image-Text Contrastive Learning
 
