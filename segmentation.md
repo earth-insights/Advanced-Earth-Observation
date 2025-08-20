@@ -35,3 +35,6 @@
 
 - UAVScenes: A Multi-Modal Dataset for UAVs. ICCV'2025. [[Paper](http://arxiv.org/abs/2507.22412) | [Code](https://github.com/sijieaaa/UAVScenes)]
 
+## Parameter-efficient Fine-tuning
+
+- SpectralX: Parameter-efficient Domain Generalization for Spectral Remote Sensing Foundation Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.01731) | [Code](https://github.com/YuxiangZhang-BIT/SpectralX)]
