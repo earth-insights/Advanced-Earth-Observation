@@ -14,6 +14,7 @@
 
 - SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model. arXiv'2025. [[Paper](https://arxiv.org/abs/2504.09644) | [Code](https://github.com/earth-insights/SegEarth-R1)]
 - LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.02829)] | [[Code](https://github.com/lisat-bair/LISAt_code)]]
+- RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.19280)]
 
 ## LLM/VLM-based Referring Expression Segmentation
 
