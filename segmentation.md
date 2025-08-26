@@ -9,6 +9,7 @@
 - AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images. CVPRW'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Dutta_AerOSeg_Harnessing_SAM_for_Open-Vocabulary_Segmentation_in_Remote_Sensing_Images_CVPRW_2025_paper.html)]
 - InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.15818) | [Code](https://github.com/VoyagerXvoyagerx/InstructSAM)]
 - RemoteSAM: Towards Segment Anything for Earth Observation. ACMMM'2025. [[Paper](https://arxiv.org/abs/2505.18022) | [Code](https://github.com/1e12Leon/RemoteSAM)]
+- SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation. ICCV'2025. [[Paper](https://arxiv.org/abs/2507.12857) | [Code](https://github.com/HuangShiqi128/SCORE)]
 
 ## Reasoning Segmentation
 
