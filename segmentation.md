@@ -10,6 +10,7 @@
 - InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.15818) | [Code](https://github.com/VoyagerXvoyagerx/InstructSAM)]
 - RemoteSAM: Towards Segment Anything for Earth Observation. ACMMM'2025. [[Paper](https://arxiv.org/abs/2505.18022) | [Code](https://github.com/1e12Leon/RemoteSAM)]
 - SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation. ICCV'2025. [[Paper](https://arxiv.org/abs/2507.12857) | [Code](https://github.com/HuangShiqi128/SCORE)]
+- Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.18067) | [Code](https://github.com/earth-insights/SegEarth-OV-2)]
 
 ## Reasoning Segmentation
 
