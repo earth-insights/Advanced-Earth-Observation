@@ -30,6 +30,7 @@
 - SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing. ICCV'2025. [[Paper](https://arxiv.org/abs/2507.13812)]
 - CGEarthEye: A High-Resolution Remote Sensing Vision Foundation Model Based on the Jilin-1 Satellite Constellation. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.00356)]
 - DINOv3. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.10104) | [Code](https://github.com/facebookresearch/dinov3)]
+- SatDINO: A Deep Dive into Self-Supervised Pretraining for Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.21402) | [Code](https://github.com/strakaj/SatDINO)]
 
 ## Masked Image Modeling
 
