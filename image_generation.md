@@ -13,6 +13,7 @@
 - Leveraging BEV Paradigm for Ground-to-Aerial Image Synthesis. ICCV'2025. [[Paper](https://arxiv.org/abs/2408.01812) | [Code](https://github.com/opendatalab/skydiffusion)]
 - RESTORE-DiT: Reliable satellite image time series reconstruction by multimodal sequential diffusion transformer. RSE'2025. [[Paper](https://doi.org/10.1016/j.rse.2025.114872) | [Code](https://github.com/SQD1/RESTORE-DiT)]
 - EarthMapper: Visual Autoregressive Models for Controllable Bidirectional Satellite-Map Translation. arXiv'2025. [[Paper](https://arxiv.org/abs/2504.19432) | [Code](https://github.com/HIT-SIRS/EarthMapper)]
+- EarthSynth: Generating Informative Earth Observation with Diffusion Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.12108) | [Code](https://github.com/jaychempan/EarthSynth/)]
 - Object Fidelity Diffusion for Remote Sensing Image Generation. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.10801) | [Code](https://github.com/VisionXLab/OF-Diff)]
 
 ## Hyperspectral Image Generation
