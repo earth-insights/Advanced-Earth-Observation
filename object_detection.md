@@ -7,6 +7,7 @@
 - LLaMA-Unidetector: A LLaMA-Based Universal Framework for Open-Vocabulary Object Detection in Remote Sensing Imagery. TGRS'2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10976651) | [Code](https://github.com/ChloeeGrace/LLaMA-Unidetector)]
 - InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.15818) | [Code](https://github.com/VoyagerXvoyagerx/InstructSAM)]
 - OpenRSD: Towards Open-prompts for Object Detection in Remote Sensing Images. ICCV'2025. [[Paper](https://arxiv.org/abs/2503.06146) | [Code](https://github.com/floatingstarZ/OpenRSD)]
+- Cross-Modal Enhancement and Benchmark for UAV-based Open-Vocabulary Object Detection. arXiv'2025. [[Paper](https://arxiv.org/abs/2509.06011)]
 
 ## LLM-based Detection / Grounding
 
