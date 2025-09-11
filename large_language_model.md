@@ -18,7 +18,7 @@
 - SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding. arXiv'2025. [[Paper](https://arxiv.org/abs/2406.10100) | [Code](https://github.com/Luo-Z13/SkySenseGPT)]
 - Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.11070) | [Code](https://github.com/TianHuiLab/Falcon)]
 - TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data. ICLR'2025. [[Paper](https://arxiv.org/abs/2410.06234) | [Code](https://github.com/ermongroup/TEOChat)]
-- VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis. [[Paper](https://arxiv.org/abs/2403.20213v4) | [Code](https://github.com/opendatalab/VHM)]
+- VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis. AAAI'2025. [[Paper](https://arxiv.org/abs/2403.20213v4) | [Code](https://github.com/opendatalab/VHM)]
 - XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery? CVPR'2025. [[Paper](https://arxiv.org/abs/2503.23771) | [Code](https://xlrs-bench.github.io/)]
 - EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues. arXiv'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Soni_EarthDial_Turning_Multi-sensory_Earth_Observations_to_Interactive_Dialogues_CVPR_2025_paper.html) | [Code](https://github.com/hiyamdebary/EarthDial)]
 - REO-VLM: Transforming VLM to Meet Regression Challenges in Earth Observation. arXiv'2024. [[paper](https://arxiv.org/abs/2412.16583)]
