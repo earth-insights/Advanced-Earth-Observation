@@ -30,7 +30,6 @@
 - GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing. arXiv'2025. [[paper](https://arxiv.org/abs/2501.06828) | [Code](https://github.com/Norman-Ou/GeoPix)]
 - Quality-Driven Curation of Remote Sensing Vision-Language Data via Learned Scoring Models. arXiv'2025. [[paper](https://arxiv.org/abs/2503.00743)]
 - When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning. arXiv'2025. [[paper](https://arxiv.org/abs/2503.07588) | [code](https://github.com/VisionXLab/LRS-VQA)]
-- Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. [[paper](https://arxiv.org/abs/2503.11070) | [code](https://github.com/TianHuiLab/Falcon)]
 - EagleVision: Object-level Attribute Multimodal LLM for Remote Sensing. arXiv'2025. [[paper](https://arxiv.org/abs/2503.23330) | [code](https://github.com/XiangTodayEatsWhat/EagleVision)]
 - OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence. arXiv'2025. [[paper](https://arxiv.org/abs/2503.16326)]
 - Can Large Multimodal Models Understand Agricultural Scenes? Benchmarking with AgroMind. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.12207) | [Code](https://github.com/rssysu/AgroMind)]
