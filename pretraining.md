@@ -65,7 +65,7 @@
 - Harnessing Massive Satellite Imagery with Efficient Masked Image Modeling. ICCV'2025. [[Paper](https://arxiv.org/abs/2406.11933) | [Code](https://github.com/MiliLab/SelectiveMAE)]
 - Galileo: Learning Global & Local Features of Many Remote Sensing Modalities. arXiv'2025. [[Paper](https://arxiv.org/abs/2502.09356) | [Code](https://github.com/nasaharvest/galileo)]
 - Towards a Unified Copernicus Foundation Model for Earth Vision. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.11849) | [Code](https://github.com/zhu-xlab/Copernicus-FM)]
-- RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.10392) | [Code](https://github.com/MiliLab/RoMA)]
+- RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing. NeurlPS'2025. [[Paper](https://arxiv.org/abs/2503.10392) | [Code](https://github.com/MiliLab/RoMA)]
 - Towards Privacy-preserved Pre-training of Remote Sensing Foundation Models with Federated Mutual-guidance Learning. ICCV'2025. [[Paper](https://arxiv.org/abs/2503.11051)]
 - RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model. ICCV'2025. [[Paper](https://arxiv.org/abs/2411.17984)]
 - SMARTIES: Spectrum-Aware Multi-Sensor Auto-Encoder for Remote Sensing Images. ICCV'2025. [[Paper](https://arxiv.org/abs/2506.19585) | [Code](https://github.com/gsumbul/SMARTIES)]
