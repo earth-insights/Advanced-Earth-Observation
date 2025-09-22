@@ -36,3 +36,4 @@
 - Remote Sensing Large Vision-Language Model: Semantic-augmented Multi-level Alignment and Semantic-aware Expert Modeling. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.21863)]
 - Landsat-Bench: Datasets and Benchmarks for Landsat Foundation Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.08780) | [Code](https://github.com/isaaccorley/landsatbench)]
 - Few-Shot Vision-Language Reasoning for Satellite Imagery via Verifiable Rewards. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.21745)]
+- GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution. NeurlPS'2025. [[Paper](https://arxiv.org/abs/2505.21375) | [Code](https://github.com/MiliLab/GeoLLaVA-8K)]
