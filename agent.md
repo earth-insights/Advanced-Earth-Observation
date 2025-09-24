@@ -7,7 +7,7 @@
 - An LLM Agent for Automatic Geospatial Data Analysis. arXiv'2024. [[Paper](https://arxiv.org/abs/2410.18792) | [Code](https://github.com/Yusin2Chen/GeoAgent)]
 - PEACE: Empowering Geologic Map Holistic Understanding with MLLMs. arXiv'2025. [[Paper](https://arxiv.org/abs/2501.06184)]
 - Multi-Agent Geospatial Copilots for Remote Sensing Workflows. arXiv'2025. [[Paper](https://arxiv.org/abs/2501.16254)]
-- Towards LLM Agents for Earth Observation: The UnivEARTH Dataset. arXiv'2025. [[Paper](https://arxiv.org/abs/2504.12110)]
+- Towards LLM Agents for Earth Observation. arXiv'2025. [[Paper](https://arxiv.org/abs/2504.12110)]
 - Geo-OLM: Enabling Sustainable Earth Observation Studies with Cost-Efficient Open Language Models & State-Driven Workflows. COMPASS'2025. [[Paper](https://arxiv.org/abs/2504.04319) | [Code](https://github.com/dstamoulis/geo-olms)]
 - ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.23752) | [Code](https://github.com/mbzuai-oryx/ThinkGeo)]
 - RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.20776)]
