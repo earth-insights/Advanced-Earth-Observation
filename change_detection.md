@@ -17,6 +17,7 @@
 - Changen2: Multi-temporal remote sensing generative change foundation model. TPAMI'2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10713915) | [Code](https://github.com/Z-Zheng/pytorch-change-models)]
 - Changeanywhere: Sample generation for remote sensing change detection via semantic latent diffusion model. arXiv'2024. [[Paper](https://arxiv.org/abs/2404.08892) | [Code](https://github.com/tangkai-RS/ChangeAnywhere)]
 - Syntheworld: A large-scale synthetic dataset for land cover mapping and building change detection. WACV'2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Song_SyntheWorld_A_Large-Scale_Synthetic_Dataset_for_Land_Cover_Mapping_and_WACV_2024_paper.html) | [Code](https://github.com/JTRNEO/SyntheWorld)]
+- ChangeDiff: A Multi-Temporal Change Detection Data Generator with Flexible Text Prompts via Diffusion Model. AAAI'2025. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33058)]
 - PRISM: Pseudo-Labeling and Region-Based Inpainting for Synthetic Change Detection Modeling. GRSL'2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/11002524)]
 - The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation. CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Benidir_The_Change_You_Want_To_Detect_Semantic_Change_Detection_In_CVPR_2025_paper.html)]
 - ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.04678)]
