@@ -8,6 +8,7 @@
 - InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.15818) | [Code](https://github.com/VoyagerXvoyagerx/InstructSAM)]
 - OpenRSD: Towards Open-prompts for Object Detection in Remote Sensing Images. ICCV'2025. [[Paper](https://arxiv.org/abs/2503.06146) | [Code](https://github.com/floatingstarZ/OpenRSD)]
 - Cross-Modal Enhancement and Benchmark for UAV-based Open-Vocabulary Object Detection. arXiv'2025. [[Paper](https://arxiv.org/abs/2509.06011)]
+- FASE: Feature-Aligned Scene Encoding for Open-Vocabulary Object Detection in Remote Sensing. CIKM'2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3746252.3760838)]
 
 ## LLM-based Detection / Grounding
 
