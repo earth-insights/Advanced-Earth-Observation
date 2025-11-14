@@ -10,6 +10,7 @@
 - TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting. arXiv'2025. [[Paper](https://arxiv.org/abs/2506.18862)]
 - DeltaVLM: Interactive Remote Sensing Image Change Analysis via Instruction-guided Difference Perception. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.22346) | [Code](https://github.com/hanlinwu/DeltaVLM)]
 - Towards Comprehensive Interactive Change Understanding in Remote Sensing: A Large-scale Dataset and Dual-granularity Enhanced VLM. [[Paper](https://arxiv.org/abs/2509.23105)]
+- UniChange: Unifying Change Detection with Multimodal Large Language Model. [[Paper](https://arxiv.org/abs/2511.02607)]
 
 ## Change Detection Data Generation
 
