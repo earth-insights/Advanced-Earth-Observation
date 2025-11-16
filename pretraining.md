@@ -7,6 +7,7 @@
 - HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery. CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_HyperFree_A_Channel-adaptive_and_Tuning-free_Foundation_Model_for_Hyperspectral_Remote_CVPR_2025_paper.html) | [Code](https://github.com/Jingtao-Li-CVer/HyperFree)]
 - MoSAiC: Multi-Modal Multi-Label Supervision-Aware Contrastive Learning for Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.08683)]
 - S5: Scalable Semi-Supervised Semantic Segmentation in Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.12409) | [Code](https://github.com/MiliLab/S5)]
+- Multi-modal Co-learning for Earth Observation: Enhancing single-modality models via modality collaboration. arXiv'2025. [[Paper](https://arxiv.org/abs/2510.19579)]
 
 ## Image Contrastive Learning
 
