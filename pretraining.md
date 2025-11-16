@@ -75,6 +75,7 @@
 - CGEarthEye: A High-Resolution Remote Sensing Vision Foundation Model Based on the Jilin-1 Satellite Constellation. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.00356)]
 - DINOv3. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.10104) | [Code](https://github.com/facebookresearch/dinov3)]
 - StefaLand: An Efficient Geoscience Foundation Model That Improves Dynamic Land-Surface Predictions. arXiv'2025. [[Paper](https://arxiv.org/abs/2509.17942)]
+- GeoLink: Empowering Remote Sensing Foundation Model with OpenStreetMap Data. NeurIPS'2025. [[Paper](https://arxiv.org/abs/2509.26016) | [Code](https://github.com/bailubin/GeoLink_NeurIPS2025)]
 
 ## Image-Text Contrastive Learning
 
