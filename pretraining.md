@@ -76,6 +76,7 @@
 - DINOv3. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.10104) | [Code](https://github.com/facebookresearch/dinov3)]
 - StefaLand: An Efficient Geoscience Foundation Model That Improves Dynamic Land-Surface Predictions. arXiv'2025. [[Paper](https://arxiv.org/abs/2509.17942)]
 - GeoLink: Empowering Remote Sensing Foundation Model with OpenStreetMap Data. NeurIPS'2025. [[Paper](https://arxiv.org/abs/2509.26016) | [Code](https://github.com/bailubin/GeoLink_NeurIPS2025)]
+- OlmoEarth: StableLatentImageModeling for Multimodal Earth Observation. 2025. [[Page](https://pjreddie.com/) | [Paper](https://www.pjreddie.com/static/papers/OlmoEarth.pdf) | [Code](https://github.com/allenai/olmoearth_pretrain)]
 
 ## Image-Text Contrastive Learning
 
