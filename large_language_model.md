@@ -39,3 +39,4 @@
 - GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution. NeurlPS'2025. [[Paper](https://arxiv.org/abs/2505.21375) | [Code](https://github.com/MiliLab/GeoLLaVA-8K)]
 - GeoVLM-R1: Reinforcement Fine-Tuning for Improved Remote Sensing Reasoning. arXiv'2025. [[Paper](https://arxiv.org/abs/2509.25026) | [Code](https://mustansarfiaz.github.io/GeoVLM-R1/)]
 - Zero-Shot Multi-Spectral Learning: Reimagining a Generalist Multimodal Gemini 2.5 Model for Remote Sensing Applications. arXiv'2025. [[Paper](https://arxiv.org/abs/2509.19087)]
+- GeoDiT: A Diffusion-based Vision-Language Model for Geospatial Understanding. arXiv'2025. [[Paper](https://arxiv.org/abs/2512.02505)]
