@@ -15,6 +15,7 @@
 - EarthMapper: Visual Autoregressive Models for Controllable Bidirectional Satellite-Map Translation. arXiv'2025. [[Paper](https://arxiv.org/abs/2504.19432) | [Code](https://github.com/HIT-SIRS/EarthMapper)]
 - EarthSynth: Generating Informative Earth Observation with Diffusion Models. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.12108) | [Code](https://github.com/jaychempan/EarthSynth/)]
 - Object Fidelity Diffusion for Remote Sensing Image Generation. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.10801) | [Code](https://github.com/VisionXLab/OF-Diff)]
+- Remote Sensing-Oriented World Model. [[Paper](https://arxiv.org/abs/2509.17808)]
 
 ## Hyperspectral Image Generation
 
