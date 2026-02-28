@@ -21,7 +21,7 @@
 - ChangeDiff: A Multi-Temporal Change Detection Data Generator with Flexible Text Prompts via Diffusion Model. AAAI'2025. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33058) | [Code](https://github.com/DZhaoXd/ChangeDiff)]
 - PRISM: Pseudo-Labeling and Region-Based Inpainting for Synthetic Change Detection Modeling. GRSL'2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/11002524)]
 - The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation. CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Benidir_The_Change_You_Want_To_Detect_Semantic_Change_Detection_In_CVPR_2025_paper.html)]
-- ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.04678)]
+- ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing. CVPR'2026. [[Paper](https://arxiv.org/abs/2507.04678)]
 
 ## Open-Vocabulary Change Detection
 
