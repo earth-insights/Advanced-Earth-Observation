@@ -22,11 +22,14 @@
 - PRISM: Pseudo-Labeling and Region-Based Inpainting for Synthetic Change Detection Modeling. GRSL'2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/11002524)]
 - The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation. CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Benidir_The_Change_You_Want_To_Detect_Semantic_Change_Detection_In_CVPR_2025_paper.html)]
 - ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing. CVPR'2026. [[Paper](https://arxiv.org/abs/2507.04678)]
+- DreamCD: A change-label-free framework for change detection via a weakly conditional semantic diffusion model in optical VHR imagery. JAG'2026. [[Paper](https://www.sciencedirect.com/science/article/pii/S1569843226000415) | [Code](https://github.com/tangkai-RS/DreamCD)]
 
 ## Open-Vocabulary Change Detection
 
 - Segment change model (scm) for unsupervised change detection in vhr remote sensing images: a case study of buildings. IGARSS'2024. [[Paper](https://arxiv.org/abs/2312.16410) | [Code](https://github.com/StephenApX/UCD-SCM)]
-- DynamicEarth: How Far are We from Open-Vocabulary Change Detection? arXiv'2025. [[Paper](https://arxiv.org/abs/2501.12931) | [Code](https://likyoo.github.io/DynamicEarth)]
+- DynamicEarth: How Far are We from Open-Vocabulary Change Detection? AAAI'2026. [[Paper](https://arxiv.org/abs/2501.12931) | [Code](https://likyoo.github.io/DynamicEarth)]
+- UniVCD: A New Method for Unsupervised Change Detection in the Open-Vocabulary Era. arXiv'2025. [[Paper](https://arxiv.org/pdf/2512.13089) | [Code](https://github.com/Die-Xie/UniVCD)]
+- OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3.  arXiv'2026. [[Paper](https://arxiv.org/abs/2601.13895)]
 
 ## Question Answering and Grounding
 
