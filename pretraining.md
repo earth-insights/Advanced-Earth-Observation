@@ -93,6 +93,7 @@
 ## POI-Location Contrastive Learning
 
 - Multi-modal contrastive learning of urban space representations from POI data. [[Paper](https://www.sciencedirect.com/science/article/pii/S0198971525000523) | [Code](https://github.com/xlwang233/CaLLiPer)]
+- Enriching location representation with detailed semantic information. [[Paper](https://arxiv.org/abs/2506.02744) | [Code](https://github.com/xlwang233/CaLLiPer)]
 
 ## Generative
 
