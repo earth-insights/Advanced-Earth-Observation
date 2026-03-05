@@ -90,6 +90,10 @@
 - TimeSenCLIP: A Vision-Language Model for Remote Sensing Using Single-Pixel Time Series. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.11919) | [Code](https://github.com/pallavijain-pj/TimeSenCLIP)]
 - Beyond AlphaEarth: Toward Human-Centered Spatial Representation via POI-Guided Contrastive Learning. arXiv'2025. [[Paper](https://arxiv.org/abs/2510.09894) | [Code](https://github.com/inwind0212/AETHER)]
 
+## POI-Location Contrastive Learning
+
+- Multi-modal contrastive learning of urban space representations from POI data. [[Paper](https://www.sciencedirect.com/science/article/pii/S0198971525000523) | [Code](https://github.com/xlwang233/CaLLiPer)]
+
 ## Generative
 
 - Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models? arXiv'2025. [[Paper](https://arxiv.org/abs/2503.07890)]
