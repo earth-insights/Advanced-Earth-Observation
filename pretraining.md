@@ -93,6 +93,7 @@
 - SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and A Progressive Learning Strategy for Downstream Tasks. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.18743) | [Code](https://github.com/YiguoHe/SAR-TEXT)]
 - TimeSenCLIP: A Vision-Language Model for Remote Sensing Using Single-Pixel Time Series. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.11919) | [Code](https://github.com/pallavijain-pj/TimeSenCLIP)]
 - CLOSP: A Unified Semantic Space for SAR, MSI, and Text in Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.10403)]
+- Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation. ECML PKDD'2025. [[Paper](https://arxiv.org/pdf/2503.15969) | [Code](https://github.com/IBM/MS-CLIP)]
 - Beyond AlphaEarth: Toward Human-Centered Spatial Representation via POI-Guided Contrastive Learning. arXiv'2025. [[Paper](https://arxiv.org/abs/2510.09894) | [Code](https://github.com/inwind0212/AETHER)]
 - SARVLM: A Vision Language Foundation Model for Semantic Understanding and Target Recognition in SAR Imagery. arXiv'2025. [[Paper](https://arxiv.org/abs/2510.22665)]
 - RSTeller: Scaling up visual language modeling in remote sensing with rich linguistic semantics from openly available data and large language models. ISPRS P&PS'2026. [[Paper](https://www.sciencedirect.com/science/article/pii/S0924271625004058) | [Code](https://github.com/CAESAR-Radi/SARCLIP)]
