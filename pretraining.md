@@ -85,6 +85,7 @@
 - SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing. AAAI'2024. [[Paper](https://arxiv.org/abs/2312.12856) | [Code](https://github.com/wangzhecheng/SkyScript)]
 - Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment. ICLR'2024. [[Paper](https://graft.cs.cornell.edu/static/pdfs/graft_paper.pdf) | [Code](https://github.com/utkarshmall13/GRAFT)]
 - Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model. GRSM'2025. [[Paper](https://arxiv.org/abs/2501.00895) | [Code](https://github.com/Chen-Yang-Liu/Git-RSCLIP)]
+- A Recipe for Improving Remote Sensing VLM Zero Shot Generalization. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.08722)]
 - LRSCLIP: A Vision-Language Foundation Model for Aligning Remote Sensing Image with Longer Text. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.19311)]
 - Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.16716) | [Code](https://github.com/YiguoHe/HQRS-210K-and-HQRS-CLIP)]
 - TimeSenCLIP: A Vision-Language Model for Remote Sensing Using Single-Pixel Time Series. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.11919) | [Code](https://github.com/pallavijain-pj/TimeSenCLIP)]
