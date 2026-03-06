@@ -95,6 +95,7 @@
 - CLOSP: A Unified Semantic Space for SAR, MSI, and Text in Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.10403)]
 - Beyond AlphaEarth: Toward Human-Centered Spatial Representation via POI-Guided Contrastive Learning. arXiv'2025. [[Paper](https://arxiv.org/abs/2510.09894) | [Code](https://github.com/inwind0212/AETHER)]
 - VLM2GeoVec: Toward Universal Multimodal Embeddings for Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2512.11490)]
+- SARCLIP: a multimodal foundation framework for SAR imagery via contrastive language-image pre-training. ISPRS P&PS'2026. [[Paper](https://www.sciencedirect.com/science/article/pii/S0924271625004058) | [Code](https://github.com/CAESAR-Radi/SARCLIP)]
 
 ## Vision-Location Contrastive Learning
 
