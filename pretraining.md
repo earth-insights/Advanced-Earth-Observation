@@ -84,12 +84,19 @@
 - RS5M and GeoRSCLIP: A Large Scale Vision-Language Dataset and A Vision-Language Foundation Model for Remote Sensing. TGRS'2024. [[Paper](https://arxiv.org/abs/2306.11300) | [Code](https://github.com/om-ai-lab/RS5M)]
 - SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing. AAAI'2024. [[Paper](https://arxiv.org/abs/2312.12856) | [Code](https://github.com/wangzhecheng/SkyScript)]
 - Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment. ICLR'2024. [[Paper](https://graft.cs.cornell.edu/static/pdfs/graft_paper.pdf) | [Code](https://github.com/utkarshmall13/GRAFT)]
-- SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery. AAAI'2025. [[Paper](https://arxiv.org/abs/2311.17179) | [Code](https://github.com/microsoft/satclip)]
 - Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model. GRSM'2025. [[Paper](https://arxiv.org/abs/2501.00895) | [Code](https://github.com/Chen-Yang-Liu/Git-RSCLIP)]
 - LRSCLIP: A Vision-Language Foundation Model for Aligning Remote Sensing Image with Longer Text. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.19311)]
 - Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.16716) | [Code](https://github.com/YiguoHe/HQRS-210K-and-HQRS-CLIP)]
 - TimeSenCLIP: A Vision-Language Model for Remote Sensing Using Single-Pixel Time Series. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.11919) | [Code](https://github.com/pallavijain-pj/TimeSenCLIP)]
 - Beyond AlphaEarth: Toward Human-Centered Spatial Representation via POI-Guided Contrastive Learning. arXiv'2025. [[Paper](https://arxiv.org/abs/2510.09894) | [Code](https://github.com/inwind0212/AETHER)]
+
+## Vision-Location Contrastive Learning
+
+- CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations. ICML'2023. [[Paper](https://arxiv.org/abs/2305.01118) | [Code](https://gengchenmai.github.io/csp-website)]
+- GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization. NeurIPS'2023. [[Paper]() | [Code]()]
+- SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery. AAAI'2025. [[Paper](https://arxiv.org/abs/2311.17179) | [Code](https://github.com/microsoft/satclip)]
+- RANGE: Retrieval Augmented Neural Fields for Multi-Resolution Geo-Embeddings. CVPR'2025. [[Paper](https://arxiv.org/pdf/2502.19781)]
+- GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.16683)]
 
 ## POI-Location Contrastive Learning
 
