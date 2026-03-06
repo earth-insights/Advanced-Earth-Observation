@@ -18,6 +18,7 @@
 - LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.02829)] | [[Code](https://github.com/lisat-bair/LISAt_code)]]
 - RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.19280)]
 - Geo-R1: Improving Few-Shot Geospatial Referring Expression Understanding with Reinforcement Fine-Tuning. arXiv'2025. [[Paper](https://arxiv.org/abs/2509.21976) | [Code](https://geo-r1.github.io/)]
+- Urban Socio-Semantic Segmentation with Vision-Language Reasoning. ICLR'2026. [[Paper](https://arxiv.org/abs/2601.10477) | [Code](https://github.com/AMAP-ML/SocioReasoner)]
 
 ## LLM/VLM-based Referring Expression Segmentation
 
