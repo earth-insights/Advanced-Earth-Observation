@@ -88,6 +88,7 @@
 - LRSCLIP: A Vision-Language Foundation Model for Aligning Remote Sensing Image with Longer Text. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.19311)]
 - Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.16716) | [Code](https://github.com/YiguoHe/HQRS-210K-and-HQRS-CLIP)]
 - TimeSenCLIP: A Vision-Language Model for Remote Sensing Using Single-Pixel Time Series. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.11919) | [Code](https://github.com/pallavijain-pj/TimeSenCLIP)]
+- CLOSP: A Unified Semantic Space for SAR, MSI, and Text in Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.10403)]
 - Beyond AlphaEarth: Toward Human-Centered Spatial Representation via POI-Guided Contrastive Learning. arXiv'2025. [[Paper](https://arxiv.org/abs/2510.09894) | [Code](https://github.com/inwind0212/AETHER)]
 - VLM2GeoVec: Toward Universal Multimodal Embeddings for Remote Sensing. arXiv'2025. [[Paper](https://arxiv.org/abs/2512.11490)]
 
