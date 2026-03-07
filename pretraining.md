@@ -87,6 +87,7 @@
 - Rethinking Remote Sensing CLIP: Leveraging Multimodal Large Language Models for High-Quality Vision-Language Dataset. ICONIP'2024. [[Paper](https://openreview.net/pdf?id=2MBdy5Nshz)]
 - SenCLIP: Enhancing zero-shot land-use mapping for Sentinel-2 with ground-level prompting. WACV'2025. [[Paper](https://arxiv.org/abs/2412.08536) | [Code](https://github.com/pallavijain-pj/SenCLIP)]
 - Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model. GRSM'2025. [[Paper](https://arxiv.org/abs/2501.00895) | [Code](https://github.com/Chen-Yang-Liu/Git-RSCLIP)]
+- DOFA-CLIP: Multimodal Vision-Language Foundation Models for Earth Observation. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.06312) | [Code](https://github.com/xiong-zhitong/DOFA-CLIP)]
 - A Recipe for Improving Remote Sensing VLM Zero Shot Generalization. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.08722)]
 - LRSCLIP: A Vision-Language Foundation Model for Aligning Remote Sensing Image with Longer Text. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.19311)]
 - Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images. arXiv'2025. [[Paper](arxiv.org/abs/2508.18067) | [Code](https://github.com/earth-insights/SegEarth-OV-2)]
