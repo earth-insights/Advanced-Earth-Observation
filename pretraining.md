@@ -84,6 +84,7 @@
 - RS5M and GeoRSCLIP: A Large Scale Vision-Language Dataset and A Vision-Language Foundation Model for Remote Sensing. TGRS'2024. [[Paper](https://arxiv.org/abs/2306.11300) | [Code](https://github.com/om-ai-lab/RS5M)]
 - SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing. AAAI'2024. [[Paper](https://arxiv.org/abs/2312.12856) | [Code](https://github.com/wangzhecheng/SkyScript)]
 - Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment. ICLR'2024. [[Paper](https://graft.cs.cornell.edu/static/pdfs/graft_paper.pdf) | [Code](https://github.com/utkarshmall13/GRAFT)]
+- Rethinking Remote Sensing CLIP: Leveraging Multimodal Large Language Models for High-Quality Vision-Language Dataset. ICONIP'2024. [[Paper](https://openreview.net/pdf?id=2MBdy5Nshz)]
 - SenCLIP: Enhancing zero-shot land-use mapping for Sentinel-2 with ground-level prompting. WACV'2025. [[Paper](https://arxiv.org/abs/2412.08536) | [Code](https://github.com/pallavijain-pj/SenCLIP)]
 - Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model. GRSM'2025. [[Paper](https://arxiv.org/abs/2501.00895) | [Code](https://github.com/Chen-Yang-Liu/Git-RSCLIP)]
 - A Recipe for Improving Remote Sensing VLM Zero Shot Generalization. arXiv'2025. [[Paper](https://arxiv.org/abs/2503.08722)]
