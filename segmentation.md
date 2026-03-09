@@ -12,6 +12,7 @@
 - SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation. ICCV'2025. [[Paper](https://arxiv.org/abs/2507.12857) | [Code](https://github.com/HuangShiqi128/SCORE)]
 - Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images. arXiv'2025. [[Paper](https://arxiv.org/abs/2508.18067) | [Code](https://github.com/earth-insights/SegEarth-OV-2)]
 - FarSLIP: Discovering Effective CLIP Adaptation for Fine-Grained Remote Sensing Understanding. arXiv'2025. [[Paper](https://arxiv.org/abs/2511.14901) | [Code](https://github.com/NJU-LHRS/FarSLIP)]
+- SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images. arXiv'2025. [[Paper](https://arxiv.org/abs/2512.08730) | [Code](https://github.com/earth-insights/SegEarth-OV-3/tree/main)]
 
 ## Reasoning Segmentation
 
