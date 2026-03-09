@@ -14,6 +14,7 @@
 - FarSLIP: Discovering Effective CLIP Adaptation for Fine-Grained Remote Sensing Understanding. arXiv'2025. [[Paper](https://arxiv.org/abs/2511.14901) | [Code](https://github.com/NJU-LHRS/FarSLIP)]
 - Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing. AAAI'2026. [[Paper](https://arxiv.org/abs/2509.12040) | [Code](https://github.com/LiBingyu01/RSKT-Seg)]
 - SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images. arXiv'2025. [[Paper](https://arxiv.org/abs/2512.08730) | [Code](https://github.com/earth-insights/SegEarth-OV-3/tree/main)]
+- Reducing semantic ambiguity in open-vocabulary remote sensing image segmentation via knowledge graph-enhanced class representations. ISPRS P&RS'2026. [[Paper](https://www.sciencedirect.com/science/article/pii/S0924271625004666) | [Code](https://github.com/HuangWBill/KG-OVRSeg)]
 
 ## Reasoning Segmentation
 
