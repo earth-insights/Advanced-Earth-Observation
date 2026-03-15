@@ -12,3 +12,5 @@
 - ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks. arXiv'2025. [[Paper](https://arxiv.org/abs/2505.23752) | [Code](https://github.com/mbzuai-oryx/ThinkGeo)]
 - RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning. arXiv'2025. [[Paper](https://arxiv.org/abs/2507.20776)]
 - Towards LLM Agents for Earth Observation. ICMLW'2025. [[Paper](https://arxiv.org/abs/2504.12110)]
+- Earth-Agent: Unlocking the Full Landscape of Earth Observation with Agents. ICLR'2026. [[Paper](https://arxiv.org/abs/2509.23141) | [Code](https://github.com/opendatalab/Earth-Agent)]
+- Designing Domain-Specific Agents via Hierarchical Task Abstraction Mechanism. arXiv'2025. [[Paper](https://arxiv.org/abs/2511.17198) | [Code](https://github.com/earth-insights/GeoPlan-bench)]
