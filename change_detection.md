@@ -23,6 +23,7 @@
 - The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation. CVPR'2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Benidir_The_Change_You_Want_To_Detect_Semantic_Change_Detection_In_CVPR_2025_paper.html)]
 - ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing. CVPR'2026. [[Paper](https://arxiv.org/abs/2507.04678)]
 - DreamCD: A change-label-free framework for change detection via a weakly conditional semantic diffusion model in optical VHR imagery. JAG'2026. [[Paper](https://www.sciencedirect.com/science/article/pii/S1569843226000415) | [Code](https://github.com/tangkai-RS/DreamCD)]
+- Open-vocabulary generative vision-language models for creating a large-scale remote sensing change detection dataset. [[Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001595?ref=pdf_download&fr=RR-2&rr=9dc7a1840bc03dbd) | [Code](http://gpcv.whu.edu.cn/data)]
 
 ## Open-Vocabulary Change Detection
 
