@@ -31,6 +31,7 @@
 - DynamicEarth: How Far are We from Open-Vocabulary Change Detection? AAAI'2026. [[Paper](https://arxiv.org/abs/2501.12931) | [Code](https://likyoo.github.io/DynamicEarth)]
 - UniVCD: A New Method for Unsupervised Change Detection in the Open-Vocabulary Era. arXiv'2025. [[Paper](https://arxiv.org/pdf/2512.13089) | [Code](https://github.com/Die-Xie/UniVCD)]
 - OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3.  arXiv'2026. [[Paper](https://arxiv.org/abs/2601.13895)]
+- CoRegOVCD: Consistency-Regularized Open-Vocabulary Change Detection. arXiv'2026. [[Paper](https://arxiv.org/abs/2604.02160)]
 
 ## Question Answering and Grounding
 
