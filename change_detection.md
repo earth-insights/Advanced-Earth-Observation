@@ -32,6 +32,7 @@
 - UniVCD: A New Method for Unsupervised Change Detection in the Open-Vocabulary Era. arXiv'2025. [[Paper](https://arxiv.org/pdf/2512.13089) | [Code](https://github.com/Die-Xie/UniVCD)]
 - OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3.  arXiv'2026. [[Paper](https://arxiv.org/abs/2601.13895)]
 - CoRegOVCD: Consistency-Regularized Open-Vocabulary Change Detection. arXiv'2026. [[Paper](https://arxiv.org/abs/2604.02160)]
+- Seg2Change: Adapting Open-Vocabulary Semantic Segmentation Model for Remote Sensing Change Detection. arXiv'2026. [[Paper]() | [Code](https://github.com/yogurts-sy/Seg2Change)]
 
 ## Question Answering and Grounding
 
