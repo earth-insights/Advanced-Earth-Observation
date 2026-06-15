@@ -21,3 +21,11 @@ If you find any errors, or you wish to add some papers, please feel free to cont
   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=earth-insights/Advanced-Earth-Observation&type=Date"/>
 </picture>
 -->
+
+## Citing
+
+```
+Li Kaiyu， Cao Xiangyong， Jiang Zixuan， Meng Deyu. Advances in open vocabulary perception for remote sensing images［J/OL］. Journal of Image and Graphics， XXXX：1-27. DOI： 10.11834/jig.260163.
+
+李开宇， 曹相湧， 蒋梓轩， 孟德宇. 遥感图像开放词汇感知进展［J/OL］. 中国图象图形学报，XXXX：1-27. DOI： 10.11834/jig.260163.
+```
