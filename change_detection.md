@@ -33,8 +33,8 @@
 - OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3.  arXiv'2026. [[Paper](https://arxiv.org/abs/2601.13895)]
 - CoRegOVCD: Consistency-Regularized Open-Vocabulary Change Detection. arXiv'2026. [[Paper](https://arxiv.org/abs/2604.02160)]
 - Seg2Change: Adapting Open-Vocabulary Semantic Segmentation Model for Remote Sensing Change Detection. arXiv'2026. [[Paper](https://arxiv.org/abs/2604.11231) | [Code](https://github.com/yogurts-sy/Seg2Change)]
-- SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images. arXiv'2025. [Paper](https://arxiv.org/abs/2512.08730) | [Code](https://github.com/earth-insights/SegEarth-OV-3)
-- ReA-OVCD: Reliability-Aware Open-Vocabulary Change Detection via Semantic and Spatial Refinement. arXiv'2026. [Paper](https://arxiv.org/abs/2606.20032) | [Code](https://github.com/Funny0101/ReA-OVCD)
+- SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images. arXiv'2025. [[Paper](https://arxiv.org/abs/2512.08730) | [Code](https://github.com/earth-insights/SegEarth-OV-3)]
+- ReA-OVCD: Reliability-Aware Open-Vocabulary Change Detection via Semantic and Spatial Refinement. arXiv'2026. [[Paper](https://arxiv.org/abs/2606.20032) | [Code](https://github.com/Funny0101/ReA-OVCD)]
 
 ## Question Answering and Grounding
 
